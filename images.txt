@@ -1,2 +1,2 @@
 talebook/talebook:v3.8.1
-yuzutech/kroki-diagramsnet:latest
+fjudith/draw.io:latest
