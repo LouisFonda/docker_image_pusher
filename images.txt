@@ -1,2 +1,2 @@
-talebook/talebook:v3.8.1
-fjudith/draw.io:latest
+talebook/talebook:latest
+bitnami/gitea:latest
