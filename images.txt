@@ -1,5 +1,1 @@
-talebook/talebook:latest
-1panel/openresty:1.21.4.3-3-1-focal
-mysql:8.2.0
-halohub/halo-pro:2.16.3
-gitea/gitea:latest
+neosmemo/memos:0.22.2
