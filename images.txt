@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+nyanmisaka/jellyfin:latest
