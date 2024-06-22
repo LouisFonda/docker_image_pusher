@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin
+linuxserver/code-server:amd64-latest
